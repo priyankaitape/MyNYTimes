@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNYTimes</string>
+    <string name="app_title">NY Times Most Popular</string>
+    <string name="title_item_detail">News Detail</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="errorURL">Error loading URL</string>
+    <string name="no_internet">No network info available</string>
+</resources>
